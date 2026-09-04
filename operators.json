@@ -22,7 +22,7 @@
     "gacha": "Standard",
     "class": "Guard",
     "archetype": "Lord",
-    "faction": "Karlan Commercial",
+    "faction": "Karlan Trade",
     "region": "Kjerag",
     "race": "Feline",
     "gender": "Male",
@@ -604,7 +604,7 @@
     "gender": "Female",
     "position": "Ranged",
     "infectedStatus": "Infected",
-    "deploymentCostE2": 1,
+    "deploymentCostE2": 16,
     "iconUrl": "https://cdn.jsdelivr.net/gh/hello23241/Arknights-operator-db@main/avatars/eyjafjalla_the_hvit_aska.webp"
   },
   {
@@ -636,7 +636,7 @@
     "gender": "Female",
     "position": "Ranged",
     "infectedStatus": "Not infected",
-    "deploymentCostE2": 1,
+    "deploymentCostE2": 29,
     "iconUrl": "https://cdn.jsdelivr.net/gh/hello23241/Arknights-operator-db@main/avatars/fiammetta.webp"
   },
   {
@@ -668,7 +668,7 @@
     "gender": "Female",
     "position": "Melee",
     "infectedStatus": "Infected",
-    "deploymentCostE2": 1,
+    "deploymentCostE2": 24,
     "iconUrl": "https://cdn.jsdelivr.net/gh/hello23241/Arknights-operator-db@main/avatars/gavial_the_invincible.webp"
   },
   {
