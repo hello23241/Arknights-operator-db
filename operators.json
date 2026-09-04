@@ -444,7 +444,7 @@
     "gender": "Female",
     "position": "Melee",
     "infectedStatus": "Not infected",
-    "deploymentCostE2": 1,
+    "deploymentCostE2": 23,
     "iconUrl": "https://cdn.jsdelivr.net/gh/hello23241/Arknights-operator-db@main/avatars/degenbrecher.webp"
   },
   {
