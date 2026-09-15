@@ -1,14 +1,14 @@
 # 📦 Arknights Operator Database
 
-What this is: A much smaller database (compared to the other ones that are available) exclusively containing trivia information that are useful for an Arknights guesser game, along with icons for each operator.
+What this is: A much smaller database (compared to the other ones that are available) exclusively containing trivia information that are useful for an Arknights guesser game, along with icons for each operators, faction icons, class icons, etc.
 
 ## 🚀 CDN Usage
 
 ### JSON Dataset
-`https://cdn.jsdelivr.net/gh/YOUR_USERNAME/Arknights-operator-db@v1.0.0/operators.json`
+`https://cdn.jsdelivr.net/gh/hello23241/Arknights-operator-db@v1.0.0/operators.json`
 
 ### Avatar Images
-`https://cdn.jsdelivr.net/gh/YOUR_USERNAME/Arknights-operator-db@v1.0.0/avatars/{eyjaslug}.webp`
+`https://cdn.jsdelivr.net/gh/hello23241/Arknights-operator-db@v1.0.0/avatars/{eyjaslug}.webp`
 
 ## ⚖️ License & Disclaimer
 
