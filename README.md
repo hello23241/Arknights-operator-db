@@ -1,6 +1,6 @@
 # 📦 Arknights Operator Database
 
-An open-source, community-maintained JSON database and CDN asset host for Arknights operators.
+What this is: A much smaller database (compared to the other ones that are available) exclusively containing trivia information that are useful for an Arknights guesser game, along with icons for each operator.
 
 ## 🚀 CDN Usage
 
@@ -8,7 +8,7 @@ An open-source, community-maintained JSON database and CDN asset host for Arknig
 `https://cdn.jsdelivr.net/gh/YOUR_USERNAME/Arknights-operator-db@v1.0.0/operators.json`
 
 ### Avatar Images
-`https://cdn.jsdelivr.net/gh/YOUR_USERNAME/Arknights-operator-db@v1.0.0/avatars/{slug}.webp`
+`https://cdn.jsdelivr.net/gh/YOUR_USERNAME/Arknights-operator-db@v1.0.0/avatars/{eyjaslug}.webp`
 
 ## ⚖️ License & Disclaimer
 
